@@ -171,3 +171,4 @@ There are a few simple rules to follow.
 - No `mut` keywords in the `core` workspace (except `glue.rs`).
 - Every error must have corresponding integration test cases to generate.  
   (except for `Unreachable-` and `Conflict-` error types)
+THE END
